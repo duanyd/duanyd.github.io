@@ -9,9 +9,9 @@ mathjax: true
 ---
 
 # Me
-I am an IT engineer from Beijing, a postgraduate, engaged in bank software development for more than 10 years.
-Currently I am an engineer at CCB Financial Technology Co., Ltd., love technology, like cutting-edge technology; 
-I am interest in finance, big data, intelligence, algorithms, blockchain, etc. 
+> I am an IT engineer from Beijing, a postgraduate, engaged in bank software development for more than 10 years.
+> Currently I am an engineer at CCB Financial Technology Co., Ltd., love technology, like cutting-edge technology; 
+> I am interest in finance, big data, intelligence, algorithms, blockchain, etc. 
 
 
 # This Site
