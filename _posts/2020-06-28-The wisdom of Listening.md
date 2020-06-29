@@ -6,7 +6,7 @@ mathjax: true
 mermaid: true
 tags: Listening Wisdom Classic
 categories: Listening Wisdom Classic
-description: Listening is a kind of wisdom, listening attentively is an ability; listening to the classics and talking with interesting souls can have fun and truth, and only then can progress...
+description: Listening is a kind of wisdom, listening attentively is an ability; listening to the classics and talking with interesting souls can have fun and truth, and only then can progress...[link](https://blog.csdn.net/weixin_37586375/article/details/107014084).
 
 ---
 > 我喜欢在上班路上或者在骑车路上听书，听经典的有声书，小时候买了收音机听英语学英语结果后来听新闻和其他东西占多数，现在听音乐比较少了，主要是听有声书为主，这几年我听了如下这些，有些经典听了好多遍，百听不厌！
