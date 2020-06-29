@@ -308,13 +308,9 @@ RunningTime:6:36运行时间：6时36分
 
 <img src="https://img-blog.csdnimg.cn/20200629130853993.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zNzU4NjM3NQ==,size_16,color_FFFFFF,t_70" align="left">
 <img src="https://img-blog.csdnimg.cn/20200629131027835.png" align="right">
-<img src="https://img-blog.csdnimg.cn/20200629131146613.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zNzU4NjM3NQ==,size_16,color_FFFFFF,t_70" align="left">
+<img src="https://img-blog.csdnimg.cn/20200629131146613.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zNzU4NjM3NQ==,size_16,color_FFFFFF,t_70" align="right">
 <img src="https://img-blog.csdnimg.cn/20200629131234259.png" align="right">
 
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629130853993.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zNzU4NjM3NQ==,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629131027835.png)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629131146613.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zNzU4NjM3NQ==,size_16,color_FFFFFF,t_70)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629131234259.png)
 
 ## 二十世纪最伟大的音乐家作品回顾（歌剧集粹）
 
