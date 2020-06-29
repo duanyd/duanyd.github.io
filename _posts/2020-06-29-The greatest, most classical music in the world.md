@@ -11,7 +11,7 @@ description: The song went up to the clouds and floated higher and farther. It s
 ---
 > 早些年，在网上搜集了一些世界名曲，都是经典得不能再经典的曲目，不敢私藏，现双手奉上给那些热爱音乐的人们，高山流水觅知音；清楚的记得《肖申克的救赎》里安迪在监狱里放莫扎特的<费加罗的婚礼>里,伯爵夫人和苏珊娜的二重唱"西风吹拂的情形，“歌声直上云端，飘向更高更远的地方，超越了所有囚徒的灰色梦想，宛如美丽的小鸟，飞进了我们的牢房，瓦解了这冷酷的高墙，就在这短暂的一瞬间，肖申克监狱的所有囚徒仿佛重获自由。”
 
-<video width="1024" height="798" controls>
+<video width="1024" height="798" controls autoplay>
     <source src="https://www.bilibili.com/video/BV1uA411t7wC?from=search&seid=15042153226513840788" type="video/mp4">
     肖申克:安迪请犯人听音乐**即使深处高墙下，也关不住内心莫扎特
 </video>
