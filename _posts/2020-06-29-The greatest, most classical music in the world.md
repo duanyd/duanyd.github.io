@@ -382,6 +382,6 @@ RunningTime:6:36运行时间：6时36分
 
 百度网盘分享：
 
-二十世纪最伟大的音乐家作品回顾 链接：https://pan.baidu.com/s/1_ZM-B_Ubgg_RQwfyxcMn8Q  提取码：4oky  \n
-纯音乐世界名曲一百首专辑 链接：https://pan.baidu.com/s/1nh_HTynu_ZwA3hLMb1M1HQ  提取码：jtq8 \n
+二十世纪最伟大的音乐家作品回顾 链接：https://pan.baidu.com/s/1_ZM-B_Ubgg_RQwfyxcMn8Q  提取码：4oky  <br/>
+纯音乐世界名曲一百首专辑 链接：https://pan.baidu.com/s/1nh_HTynu_ZwA3hLMb1M1HQ  提取码：jtq8 <br/>
 二十世纪最伟大的音乐家作品回顾（歌剧集粹） 链接：https://pan.baidu.com/s/1-jhibqPLVef7Gah227eshA  提取码：jkuz 
