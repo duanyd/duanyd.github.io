@@ -11,11 +11,12 @@ description: The song went up to the clouds and floated higher and farther. It s
 ---
 > 早些年，在网上搜集了一些世界名曲，都是经典得不能再经典的曲目，不敢私藏，现双手奉上给那些热爱音乐的人们，高山流水觅知音；清楚的记得《肖申克的救赎》里安迪在监狱里放莫扎特的<费加罗的婚礼>里,伯爵夫人和苏珊娜的二重唱"西风吹拂的情形，“歌声直上云端，飘向更高更远的地方，超越了所有囚徒的灰色梦想，宛如美丽的小鸟，飞进了我们的牢房，瓦解了这冷酷的高墙，就在这短暂的一瞬间，肖申克监狱的所有囚徒仿佛重获自由。”
   
-
+[video(https://www.bilibili.com/video/BV1uA411t7wC?from=search&seid=15042153226513840788)(title-肖申克:安迪请犯人听音乐**即使深处高墙下，也关不住内心莫扎特)]
 
 [video(video-TA9mD0vg-1593400945087)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=328054161)(image-https://ss.csdn.net/p?http://i0.hdslb.com/bfs/archive/0dd614750ffe45a7325448d23d24a56cc648d746.jpg)(title-肖申克:安迪请犯人听音乐**即使深处高墙下，也关不住内心莫扎特)]
 
 ## 二十世纪最伟大的音乐家作品回顾
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2020062912544569.jpg#pic_center)
 The Yellow Guide classical music (3CD) 由DGG唱片公司录音，PolyGram公司出版。
 
@@ -304,28 +305,33 @@ Artists:GidonKremerViennaPhilharmonicOrchestra(Conductedby:ChristophvonDohnányi
 RunningTime:6:36运行时间：6时36分
 
 ## 纯音乐世界名曲一百首专辑
+
 由网友自发搜集的100首世界名曲，包括了古今中外的所有经典名曲，为所有崇尚自由、热爱音乐的网友分享了最好的音乐！
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629130853993.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zNzU4NjM3NQ==,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629131027835.png)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629131146613.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zNzU4NjM3NQ==,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629131234259.png)
+
 ## 二十世纪最伟大的音乐家作品回顾（歌剧集粹）
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629132237254.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zNzU4NjM3NQ==,size_16,color_FFFFFF,t_70)
 《The Yellow Guide》系列之歌剧Opera部分，唱片名称：《The Yellow Guide Opera》歌剧集粹。
 *这套由3张唱片作得逞歌剧精华到底有什么奥秘呢？* 
+
 **首先，这3张CD的音乐时间长度将近4小时。**
+
 **其二，这3张CD的又被独立分成3个部分：**
             
-
  1. 歌剧中的管弦乐，主要是序曲和间奏曲
  2. 着名的歌剧咏叹调
  3. 伟大的戏剧场面，着名的重唱、合唱曲
 
 	在这里它从不同的观点和角度，将歌剧的魅力尽现其中。
 
-**其叁，在这套唱片里歌剧凭借着音乐戏剧和激动人心的组合，突破了纯音乐的框架，将最精彩的瞬间展现在了你的眼前----这里有充满火一样燃烧的热情、有无法平息的仇恨、有恐怖的阴谋和激烈紧张的冲突，歌剧所创造的世界将紧紧地牵动着听者的每一根神经，令你随着它的发展而无法自持、无法自拔和逃离其中。 
-这就是歌剧的魅力所在。**
+**其叁，在这套唱片里歌剧凭借着音乐戏剧和激动人心的组合，突破了纯音乐的框架，将最精彩的瞬间展现在了你的眼前----这里有充满火一样燃烧的热情、有无法平息的仇恨、有恐怖的阴谋和激烈紧张的冲突，歌剧所创造的世界将紧紧地牵动着听者的每一根神经，令你随着它的发展而无法自持、无法自拔和逃离其中。 这就是歌剧的魅力所在。**
+
 这套歌剧包括也包括3张CD共42支曲目，相信热爱歌剧的朋友会满意，曲目如下：
+
 **CD1：著名的序曲和间奏曲**
 1. Carmen: Overture比才：《卡门》序曲
 2. The Italian Girl In Algiers: Ouverture罗西尼：《意大利女郎在阿尔及尔》
@@ -338,8 +344,6 @@ RunningTime:6:36运行时间：6时36分
 9. Salome: Dance Of The Seven Veils理查.斯特劳斯：《莎乐美》七重纱之舞曲
 10. Fidelio: Ouverture贝多芬：《费德里奥》序曲
 11. The Marriage Of Figaro: Overture 莫扎特：《费加罗的婚礼》序曲
-
-
 
 **CD2：著名的咏叹调**
 1. Don Giovanni: 'Madamina' (Catalogue Aria)莫扎特：《唐璜》花之歌
@@ -359,8 +363,6 @@ RunningTime:6:36运行时间：6时36分
 15. The Marriage Of Figaro: Non Piu Andraia莫扎特：《费加罗的婚礼》
 16. Dido And Aeneas:: When l Am Laid In Earth多与埃涅阿斯《当我躺在大地上》
 
-
-
 **CD3：著名的重唱、合唱曲**
 1. Der Freischütz: Was Gleicht Wohl Auf Erden韦伯：《魔弹射手》大地给我们多么快乐
 2. La Traviata: Libiamo Ne' Lieti Calici (Brindisi)威尔第：《茶花女》饮酒歌
@@ -379,6 +381,9 @@ RunningTime:6:36运行时间：6时36分
 15. Wozzeck: Ringel, Ringel, Rosenkranz, Ringelreih'n! 贝尔格：《伍采克》兜圈子,兜圈子,兜成玫瑰大花环
 
 百度网盘分享：
+
 二十世纪最伟大的音乐家作品回顾 链接：https://pan.baidu.com/s/1_ZM-B_Ubgg_RQwfyxcMn8Q  提取码：4oky
+
 纯音乐世界名曲一百首专辑 链接：https://pan.baidu.com/s/1nh_HTynu_ZwA3hLMb1M1HQ  提取码：jtq8
+
 二十世纪最伟大的音乐家作品回顾（歌剧集粹） 链接：https://pan.baidu.com/s/1-jhibqPLVef7Gah227eshA  提取码：jkuz
