@@ -41,14 +41,14 @@ The Yellow Guide classical music (3CD) 由DGG唱片公司录音，PolyGram公司
 
 本节介绍的就是The Yellow Guide之中的古典音乐，分为3张碟子，一共42支曲子。
 Disc1 第1盘
-1:Kyrie  凯里
-From:MissaPapaeMarcelli(Palestrina)： 
+1. Kyrie  凯里
+From: MissaPapaeMarcelli(Palestrina)： 
      弥撒PapaeMARCELLI（帕莱斯特里纳）
 Artists:WestminsterAbbeyChoir(Conductedby:SimonPreston) 
 艺术家：西敏寺合唱团（进行：西蒙·普雷斯顿）
 RunningTime:4:05  运行时间：4:05
 
-2:Inquestolietoefortunatogiorno
+2. Inquestolietoefortunatogiorno
  在questo列托éFORTUNATOGIORNO中
 From:L'Orfeo(Monteverdi)
 来自：L'奥菲欧“（威尔第）
@@ -56,163 +56,163 @@ Artists:NancyArgentaEnglishBaroqueSoloists(Conductedby:SirJohnEliotGardiner)Mont
 艺术家：南希Argenta的英国巴洛克独奏家乐团（进行：约翰·艾略特·加德纳爵士）蒙特威尔第合唱团：约翰·艾略特·加德纳爵士进行马克塔克
 RunningTime:3:36  运行时间：3:36
 
-3:Allegrononmolto  快板非MOLTO
+3. Allegrononmolto  快板非MOLTO
 From:TheFourSeasons-ConcertoNo.4inFminorRV297"Winter"(Vivaldi)
 来自：四季-协奏曲第4号F小调RV297“冬”（韦华）
 Artists:OrpheusChamberOrchestraGilShaham
 艺术家：奥菲斯室内乐团吉尔·沙哈姆
 RunningTime:3:24运行时间：3:24
 
-4:HallelujahChorus 哈利路亚合唱曲
+4. HallelujahChorus 哈利路亚合唱曲
 From:MessiahHWV56(Handel) 来自：：弥赛亚HWV56（亨德尔）
 Artists:EnglishConcert(Conductedby:TrevorPinnock)EnglishConcertChoir(Conductedby:TrevorPinnock)
 艺术家：英国音乐会（指挥：比洛克）英语合唱团（进行：比洛克）
 RunningTime:4:02运行时间：4:02
 
-5:Air 空气
+5. Air 空气
 From:OrchestralSuiteNo.3inDBWV1068(Bach)
 来自：管弦乐组曲第3号DBWV1068（巴赫）
 Artists:MusicaAntiquaK?ln(Conductedby:ReinhardGoebel)
 艺术家：穆希卡的AntiquaK？LN（进行：莱因哈德·格贝尔）
 RunningTime:4:40运行时间：4:40
 
-6:Pocoadagiocantabile  POCO如歌的慢板
+6. Pocoadagiocantabile  POCO如歌的慢板
 From:StringQuartetNo.3inCmajorOp.76(Haydn)
 来自：弦乐四重奏第3号C大调作品。76（海顿）
 Artists:AmadeusQuartet 艺术家：莫扎特
 RunningTime:7:56运行时间：7:56
 
-7:Lacrimosa 
+7. Lacrimosa 
 From:RequieminDminorKV626(Mozart)：D小调KV626（莫扎特安魂曲）
 Artists:BerlinPhilharmonicOrchestra(Conductedby:HerbertvonKarajan)ViennaBoysChoir(Conductedby:HerbertvonKarajan)
 艺术家：柏林爱乐乐团（进行：赫伯特·冯·卡拉扬）维也纳童声合唱团（进行：赫伯特·冯·卡拉扬）
 RunningTime:3:22运行时间：3:22
 
-8:1stMovement(Allegroconbrio) 1日运动（有活力的快板）
+8. 1stMovement(Allegroconbrio) 1日运动（有活力的快板）
 From:SymphonyNo.5inCminorOp.67(Beethoven)
 来自：在C小调第5号交响曲。67（贝多芬）
 Artists:LosAngelesPhilharmonicOrchestra(Conductedby:CarloMariaGiulini)
 艺术家：洛杉矶爱乐乐团（进行：卡洛玛利亚朱里尼）
 RunningTime:7:25运行时间：7:25
 
-9:CapriceNo.24inAminorop.1(Paganini)在A小调随想曲第24号。1（帕格尼尼）
+9. CapriceNo.24inAminorop.1(Paganini)在A小调随想曲第24号。1（帕格尼尼）
 Artists:ShlomoMintz艺术家：什洛莫·明茨
 RunningTime:6:24运行时间：6:24
 
-10:Overture(excerpt)序曲（节选）
+10. Overture(excerpt)序曲（节选）
 From:WilliamTell(Rossini)来自：威廉·泰尔（罗西尼）
 Artists:ChamberOrchestraofEurope(Conductedby:ClaudioAbbado)
 艺术家：欧洲室内乐团（指挥：阿巴多）
 RunningTime:3:15运行时间：3:15
 
-11：4thMovement(Andantino)第四乐章（行板）
+11. 4thMovement(Andantino)第四乐章（行板）
 From:PianoQuintetinAD667"theTrout"(Schubert) 
 来自：在AD667“鳟鱼”钢琴五重奏（舒伯特）
 Artists:AmadeusQuartetEmilGilels
 艺术家：艾玛迪斯四方埃米尔·吉列尔斯
 RunningTime:8:01运行时间：8:01
 
-12：2ndmovement("ABall")第二乐章（“球”）
+12. 2ndmovement("ABall")第二乐章（“球”）
 From:SymphonieFantastiqueOp.14(Berlioz)
 来自：幻想交响曲作品。14（柏辽兹）
 Artists:ClevelandOrchestra(Conductedby:PierreBoulez)
 艺术家：克利夫兰交响乐团（指挥：布列兹）
 RunningTime:6:07运行时间：6:07
 
-13：WeddingMarch婚礼进行曲
+13. WeddingMarch婚礼进行曲
 From:AMidsummerNight'sDreamop.61(Mendelssohn)
 来自：仲夏夜的梦运算。61（门德尔松）
 Artists:BostonSymphonyOrchestra(Conductedby:SeijiOzawa)
 艺术家：波士顿交响乐团（指挥：小泽征尔）
 RunningTime:5:12运行时间：5:12
 
-14：EtudeNo.6inGsharpminorop.25"Double-Thirds"(Chopin)
+14. EtudeNo.6inGsharpminorop.25"Double-Thirds"(Chopin)
     升G小调练习曲第6号。25“双三分之二”（肖邦）
 Artists:IvoPogorelich艺术家：伊沃殊
 RunningTime:2:18运行时间：2:18
 
-15Troumerei
+15. Troumerei
 From:Kinderszenenop.(Schumann)（舒曼）
 Artists:MarthaArgerich|艺术家：阿格里奇|
 RunningTime:3:03运行时间：3:03
 
 Disc2光盘2
 
-1:HungarianRhapsodyNo.6inDmajor"CarnivalinPesth"(Liszt)
+1. HungarianRhapsodyNo.6inDmajor"CarnivalinPesth"(Liszt)
    匈牙利狂想曲第6号D大调“嘉年华Pesth”（李斯特）
 Artists:MarthaArgerich艺术家：阿格里奇
 RunningTime:6:20运行时间：6:20
 
-2:"RideoftheValkyries"(ActIII)“女武神的骑行”（第三幕）
+2. "RideoftheValkyries"(ActIII)“女武神的骑行”（第三幕）
 From:DieWalküre(Wagner)来自：模具女武神（瓦格纳）
 Artists:MetropolitanOperaOrchestra(Conductedby:JamesLevine)
 艺术家：大都会歌剧院交响乐团（指挥：詹姆斯·莱文）
 RunningTime:5:43运行时间：5:43
 
-3:Vapensiero,sull'alidorate(ChorusoftheHebrewSlaves)(ActIII)
+3. Vapensiero,sull'alidorate(ChorusoftheHebrewSlaves)(ActIII)
 乘着金色的翅膀，sull'alidorate（希伯来奴隶的合唱团）（第三幕）
 From:Nabucco(Verdi)来自：纳布科（威尔第）
 Artists:GermanOperaChorus,Berlin(Conductedby:GiuseppeSinopoli)GermanOperaOrchestra,Berlin(Conductedby:GiuseppeSinopoli)
 艺术家：德国歌剧院合唱团（传导：朱塞佩辛诺波里），柏林德国歌剧院管弦乐团，柏林（：Giuseppe辛诺波里的进行）
 RunningTime:4:54运行时间：4:54
 
-4:Overture序曲
+4. Overture序曲
 From:TheBarteredBride(Smetana)来自：被出卖的新娘（斯美塔那）
 Artists:ViennaPhilharmonicOrchestra(Conductedby:JamesLevine)
 艺术家：维也纳爱乐乐团（指挥：詹姆斯·莱文）
 RunningTime:6:34运行时间：6:34
 
-5:1stmovement"TeDeum" 第一乐章“赞美颂”
+5. 1stmovement"TeDeum" 第一乐章“赞美颂”
 From:TeDeum(Bruckner)来自：赞美颂（布鲁克纳）
 Artists:BerlinPhilharmonicOrchestra(Conductedby:EugenJochum)GermanOperaChorus,Berlin(Conductedby:EugenJochum)ErnstHaefligerPeterLaggerMariaStaderSieglindeWagner
 艺术家：柏林爱乐乐团（进行：欧根·约胡姆），柏林（德国歌剧院合唱团进行：欧根·约胡姆）恩斯特Haefliger彼得LAGGER玛丽亚Stader西格林德瓦格纳
 RunningTime:5:58运行时间：5:58
 
-6:OntheBeautifulBlueDanube(Andersch?nenblauenDonau)op.314(Strauss)
+6. OntheBeautifulBlueDanube(Andersch?nenblauenDonau)op.314(Strauss)
 在美丽的蓝色多瑙河（的AnderSCH嫩江blauen多瑙河）运算。314（施特劳斯）
 Artists:BerlinPhilharmonicOrchestra(Conductedby:HerbertvonKarajan)
 艺术家：柏林爱乐乐团（指挥：赫伯特·冯·卡拉扬）
 RunningTime:11:45运行时间：11:45
 
-7:3rdmovement(Pocoallegretto)第三乐章（POCOALLEGRETTO）
+7. 3rdmovement(Pocoallegretto)第三乐章（POCOALLEGRETTO）
 From:SymphonyNo.3inFop.90(Brahms)来自：f任择议定书第3号交响曲。90（勃拉姆斯）
 Artists:BerlinPhilharmonicOrchestra(Conductedby:ClaudioAbbado)
 艺术家：柏林爱乐乐团（进行：阿巴多）
 RunningTime:6:27运行时间：6:27
 
-8:TheSwan天鹅
+8. TheSwan天鹅
 From:CarnivaloftheAnimals(Saint-Sa?ns)来自：动物狂欢节（圣萨？纳秒）
 Artists:MischaMaiskyParisOrchestra(Conductedby:SemyonBychkov)
 艺术家：米沙·麦斯基巴黎交响乐团（指挥：谢苗·毕契科夫）
 RunningTime:3:51运行时间：3:51
 
-9:Habanera哈巴涅拉
+9. Habanera哈巴涅拉
 From:Carmen(Bizet)来自：卡门（比才）
 Artists:AmbrosianSingers(Conductedby:ClaudioAbbado)TeresaBerganzaLondonSymphonyOrchestra(Conductedby:ClaudioAbbado)
 艺术家：的安布罗歌手（：阿巴多）TeresaBerganza酒店伦敦交响乐团（指挥：阿巴多进行）
 RunningTime:4:23运行时间：4:23
 
-10:TheGreatGateofKiev基辅大门
+10. TheGreatGateofKiev基辅大门
 From:PicturesatanExhibition(Mussorgsky)来自：图画展览会（穆索尔斯基）
 Artists:ChicagoSymphonyOrchestra(Conductedby:CarloMariaGiulini)
 艺术家：芝加哥交响乐团（指挥：卡洛玛利亚朱里尼）
 RunningTime:5:44运行时间：5:44
 
-11:Valse圆舞曲
+11. Valse圆舞曲
 From:SymphonyNo.5inEminorOp.64
 来自：在E小调第5号交响曲。64
 Artists:RussianNationalOrchestra(Conductedby:MikhailPletnev)
 艺术家：俄罗斯国家交响乐团（指挥：米哈伊尔·普雷特涅夫）
 RunningTime:5:48运行时间：5:48
 
-12:2ndMovement(Largo)(excerpts)第二乐章（拉哥）（节选）
+12. 2ndMovement(Largo)(excerpts)第二乐章（拉哥）（节选）
 From:SymphonyNo.9inEminorOp.95"FromtheNewWorld"(Dvorák)
 来自：在E小调第九号交响曲。95“自新大陆”（德沃夏克）
 Artists:ViennaPhilharmonicOrchestra(Conductedby:LorinMaazel)
 艺术家：维也纳爱乐乐团（指挥：洛林·马泽尔）
 RunningTime:4:05运行时间：4:05
 
-13:IntheHalloftheMountainKing在霍尔山王
+13. IntheHalloftheMountainKing在霍尔山王
 From:PeerGyntOp.23(Grieg)
 来自：培尔金特OP。23（格里格的）
 Artists:GothenburgSymphonyOrchestra(Conductedby:NeemeJ?rvi)
@@ -221,84 +221,84 @@ RunningTime:3:00运行时间：3:00
 
 Disc3光盘3
 
-1:Unbeldivedremo(ActII) UN美迪vedremo（第二幕）
+1. Unbeldivedremo(ActII) UN美迪vedremo（第二幕）
 From:MadamaButterfly(Puccini)
 来源：“蝴蝶夫人”（普契尼）
 Artists:MirellaFreniPhilharmoniaOrchestra(Conductedby:GiuseppeSinopoli)
 艺术家：MIRELLAFRENI爱乐乐团（：Giuseppe辛诺波里的进行）
 RunningTime:5:01运行时间：5:01
 
-2:4thmovement(Adagietto)第四乐章（Adagietto）
+2. 4thmovement(Adagietto)第四乐章（Adagietto）
 From:SymphonyNo.5(Mahler)来自：第5号交响曲（马勒）
 Artists:ViennaPhilharmonicOrchestra(Conductedby:PierreBoulez)
 艺术家：维也纳爱乐乐团（指挥：布列兹）
 RunningTime:11:01运行时间：11:01
 
-3:Feuxd'artifice
+3. Feuxd'artifice
 From:Préludes-Book2(Debussy)来源：序曲-第2册（德彪西）
 Artists:KrystianZimerman艺术家：齐默曼
 RunningTime:4:28运行时间：4:28
 
-4:Introduction简介
+4. Introduction简介
 From:ThusSpokeZarathustraop.30(Strauss)
 来自：因此轮辐查拉图斯特拉运算。30（施特劳斯）
 Artists:BerlinPhilharmonicOrchestra(Conductedby:HerbertvonKarajan)
 艺术家：柏林爱乐乐团（指挥：赫伯特·冯·卡拉扬）
 RunningTime:1:42运行时间：1:42
 
-5:ValseTristeOp.44(Sibelius)圆舞曲特里斯特作品。44（西贝）
+5. ValseTristeOp.44(Sibelius)圆舞曲特里斯特作品。44（西贝）
 Artists:OrpheusChamberOrchestra艺术家：奥菲斯室内乐团
 RunningTime:6:00运行时间：6:00
 
-6:GymnopédieNo.1(Satie) Gymnopédie1号（萨蒂）
+6. GymnopédieNo.1(Satie) Gymnopédie1号（萨蒂）
 Artists:BerlinPhilharmonicOrchestra(Conductedby:HerbertvonKarajan)
 艺术家：柏林爱乐乐团（指挥：赫伯特·冯·卡拉扬）
 RunningTime:3:04运行时间：3:04
 
-7:VariationNo.18 
+7. VariationNo.18 
 From:RhapsodyonathemeofPaganiniop.43(Rachmaninov)
 来自：运帕格尼尼主题狂想曲。43（拉赫玛尼诺夫）
 Artists:LondonSymphonyOrchestra(Conductedby:ClaudioAbbado)TámasVásáry
 艺术家：伦敦交响乐团（指挥：阿巴多）塔马斯Vásáry的
 RunningTime:3:22运行时间：3:22
 
-8:PavaneforaDeadPrincess(Ravel)死公主的孔雀舞曲（拉威尔）
+8. PavaneforaDeadPrincess(Ravel)死公主的孔雀舞曲（拉威尔）
 Artists:LondonSymphonyOrchestra(Conductedby:ClaudioAbbado)
 艺术家：伦敦交响乐团（进行：阿巴多）
 RunningTime:6:37运行时间：6:37
 
-9:2ndmovement第二乐章
+9. 2ndmovement第二乐章
 From:ConcertoforOrchestraSz116(Bartók)
 来自：为乐团卓越时代（巴托克协奏曲）
 Artists:ChicagoSymphonyOrchestra(Conductedby:PierreBoulez)
 艺术家：芝加哥交响乐团（指挥：布列兹）
 RunningTime:6:24运行时间：6:24
 
-10:Infernal Dance地狱之舞
+10. Infernal Dance地狱之舞
 From:TheFirebird(L'oiseaudeFeu)(Stravinsky)
 来自：“斯特拉文斯基的”火鸟“（L'oiseau的如火燃烧）（）
 Artists:BastilleOperaOrchestra(Conductedby:Kyung-WhaChung)
 艺术家：巴士底歌剧院管弦乐团（Conductedby:Kyung-WhaChung）
 RunningTime:3:55运行时间：3:55
 
-11:LiedderLulu利德得露露
+11. LiedderLulu利德得露露
 From:Lulu-Suite(Berg)来自：露露-套房（伯格）
 Artists:LondonSymphonyOrchestra(Conductedby:ClaudioAbbado)MargaretPrice
 艺术家：伦敦交响乐团（指挥：阿巴多）玛格丽特价格
 RunningTime:2:56运行时间：2:56
 
-12:DanceoftheKnights骑士舞
+12. DanceoftheKnights骑士舞
 From:RomeoandJulietop.64(Prokofiev)来自：“罗密欧与茱丽叶”的运算。64（普罗科菲耶夫）
 Artists:BostonSymphonyOrchestra(Conductedby:SeijiOzawa)
 艺术家：波士顿交响乐团（指挥：小泽征尔）
 RunningTime:5:22运行时间：5:22
 
-13:CubanOverture(Gershwin)古巴序曲（格什温）
+13. CubanOverture(Gershwin)古巴序曲（格什温）
 Artists:ChicagoSymphonyOrchestra(Conductedby:JamesLevine)
 艺术家：芝加哥交响乐团（指挥：詹姆斯·莱文）
 RunningTime:9:49运行时间：9:49
 
-14:1stMovement第一乐章
+14. 1stMovement第一乐章
 From:ViolinConcerto(Glass)来自：小提琴协奏曲（玻璃）
 Artists:GidonKremerViennaPhilharmonicOrchestra(Conductedby:ChristophvonDohnányi)
 艺术家：吉顿克莱默维也纳爱乐乐团（进行：克里斯托夫·冯·多纳伊）
