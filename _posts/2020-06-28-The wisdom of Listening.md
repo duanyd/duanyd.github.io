@@ -23,6 +23,8 @@ description: Listening is a kind of wisdom, listening attentively is an ability;
 
 《人性的弱点》三遍
 
+《专业投机原理》 亘古皓月 2遍
+
 《古今中外经典诗歌》蓝澜
 
 《小王子》
