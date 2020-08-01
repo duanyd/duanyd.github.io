@@ -317,9 +317,11 @@ RunningTime:6:36运行时间：6时36分
 
 <br/>
 
-## 二十世纪最伟大的音乐家作品回顾（歌剧集粹）
+
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629132237254.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zNzU4NjM3NQ==,size_16,color_FFFFFF,t_70)
+
+## 二十世纪最伟大的音乐家作品回顾（歌剧集粹）
 《The Yellow Guide》系列之歌剧Opera部分，唱片名称：《The Yellow Guide Opera》歌剧集粹。
 *这套由3张唱片作得逞歌剧精华到底有什么奥秘呢？* 
 
