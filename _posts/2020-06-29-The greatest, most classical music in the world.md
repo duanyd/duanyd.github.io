@@ -391,4 +391,38 @@ RunningTime:6:36运行时间：6时36分
 
 二十世纪最伟大的音乐家作品回顾 链接：https://pan.baidu.com/s/1_ZM-B_Ubgg_RQwfyxcMn8Q  提取码：4oky  <br/>
 纯音乐世界名曲一百首专辑 链接：https://pan.baidu.com/s/1nh_HTynu_ZwA3hLMb1M1HQ  提取码：jtq8 <br/>
-二十世纪最伟大的音乐家作品回顾（歌剧集粹） 链接：https://pan.baidu.com/s/1-jhibqPLVef7Gah227eshA  提取码：jkuz 
+二十世纪最伟大的音乐家作品回顾（歌剧集粹） 链接：https://pan.baidu.com/s/1-jhibqPLVef7Gah227eshA  提取码：jkuz <br/>
+
+
+
+## 个人收藏经典音乐
+
+《High Hopes》
+《Ni La Fuerza Del Destino》
+《忘记 わすれもの》
+《Andy Williams - Speak Softly Love》
+《Ogni Cosa(每一件事)》
+《Ti Amero（我会爱你的）》
+《si tu me amas(如果你爱我)》
+《Matthew Lien - Bressanone》
+《John Lennon - Imagine》
+《Five Hundred Miles - Justin Timberlake》
+《Eagles - Doolin-Dalton》
+《I Dug Up A Diamond》
+《Desperado》
+《做个真的我》
+《鈴木常吉 - 思ひで》
+《三線の花》
+《信，写给15岁的自己 Angela Aki - 手纸～拝启十五の君へ～》
+《遠く遠く-MayJ》
+《附魔》Enchanters
+《Raindrops（雨滴） Eliane》
+《Luther Vandross - Dance With My Father》
+《The Eagles - Hotel California》
+《Wonderful U (Demo) (《圆》英语版) - AGA》
+《Adele - Someone Like You》
+《Adele - Rolling In The Deep》
+《old town road》
+《李克勤 - 月半小夜曲》
+《木小雅 - 可能否》
+《世间美好与你环环相扣-柏松》
